@@ -3,6 +3,10 @@
 A production-grade pipeline that scrapes public statistical data from the Ministry of Statistics and Programme Implementation (MoSPI) website and powers a local LLaMA-based Q&A chatbot using Retrieval-Augmented Generation (RAG).
 
 ---
+## UI Screenshot
+
+<img width="1680" height="926" alt="ChatBot_UI" src="https://github.com/user-attachments/assets/a0eef550-b4e6-46ac-b01f-2a9a9a3d59a5" />
+
 
 ## Table of Contents
 
