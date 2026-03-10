@@ -1,0 +1,1 @@
+"""MoSPI web scraper package."""
